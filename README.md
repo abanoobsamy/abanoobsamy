@@ -26,10 +26,10 @@
 
 ---
 
-### 🔥 My Activity
-<p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abanoobsamy&theme=radical&hide_border=true" alt="Abanoob's Streak" />
-</p>
+### 🏆 Achievements
+| 🚀 Projects | 🌱 Contributions | ⚡ Current Streak |
+| :---: | :---: | :---: |
+| **Building Portfolio** | **Active** | **On Fire!** |
 
 ---
 
