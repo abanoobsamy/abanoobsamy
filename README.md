@@ -1,13 +1,13 @@
 # Hi there, I'm Abanoob Samy! 👋
 
-### 🚀 Android Developer | Jetpack Compose Enthusiast
-I'm a passionate Software Engineer from Egypt, focused on creating impactful mobile solutions.
+### ✨ Crafting Pixel-Perfect Android Apps with a touch of AI
+**Android Developer | Jetpack Compose Wizard 🧙‍♂️**
 
-- 🔭 I’m currently working on **High-performance Android Apps**
-- 🌱 I’m currently learning **Advanced AI integration in Mobile**
-- 👯 I’m looking to collaborate on **Open Source Kotlin Projects**
-- 💬 Ask me about **Android, Java, Kotlin, Jetpack Compose, & Clean Architecture**
-- 📫 How to reach me: **[abanoobsamy.site](https://abanoobsamy.site)**
+- 🔭 **Currently:** Building smooth, high-performance UI experiences using **Jetpack Compose**.
+- 🌱 **Learning:** Integrating **LLMs & Generative AI** into mobile ecosystems.
+- 🤝 **Collaboration:** I help open-source projects migrate to modern Android standards.
+- 💬 **Ask me about:** Modern Android Development (MAD), Animations, & AI integration.
+- 🚀 **See my work:** [**abanoobsamy.site**](https://abanoobsamy.site) _(It's worth a visit!)_
 
 ---
 
