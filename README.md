@@ -33,6 +33,12 @@
 
 ---
 
+### 📊 GitHub Stats
+![Abanoob's Stats](https://github-readme-stats.vercel.app/api?username=abanoobsamy&show_icons=true&theme=radical&count_private=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abanoobsamy&layout=compact&theme=radical)
+
+---
+
 ### 🔗 Connect with me
 <p align="left">
 <a href="https://linkedin.com/in/abanoobsamy" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="abanoobsamy" /></a>
