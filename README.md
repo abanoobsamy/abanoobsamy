@@ -26,8 +26,10 @@
 
 ---
 
-### 🔥 GitHub Streaks
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=abanoobsamy&theme=radical)
+### 🔥 My Activity
+<p align="left">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abanoobsamy&theme=radical&hide_border=true" alt="Abanoob's Streak" />
+</p>
 
 ---
 
