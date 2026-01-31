@@ -27,10 +27,8 @@
 ---
 
 ### 📊 GitHub Stats
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=abanoobsamy&show_icons=true&theme=radical" alt="Abanoob's Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abanoobsamy&layout=compact&theme=radical" alt="Top Languages" />
-</p>
+![Abanoob's Stats](https://github-readme-stats.vercel.app/api?username=abanoobsamy&show_icons=true&theme=radical&count_private=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abanoobsamy&layout=compact&theme=radical)
 
 ---
 
