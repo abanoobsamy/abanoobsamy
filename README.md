@@ -26,9 +26,8 @@
 
 ---
 
-### 📊 GitHub Stats
-![Abanoob's Stats](https://github-readme-stats.vercel.app/api?username=abanoobsamy&show_icons=true&theme=radical&count_private=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abanoobsamy&layout=compact&theme=radical)
+### 🔥 GitHub Streaks
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=abanoobsamy&theme=radical)
 
 ---
 
