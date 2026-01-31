@@ -33,6 +33,19 @@
 
 ---
 
+### ⚡ Quick Stats
+| 🏆 Current Focus | 📦 Projects | ⏱️ Timezone |
+| :---: | :---: | :---: |
+| **Android & AI** | **Active Builder** | **Egypt (GMT+2)** |
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Code-Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" />
+  <img src="https://img.shields.io/badge/Status-Open%20to%20Work-success?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Focus-Mobile%20Dev-blue?style=for-the-badge" />
+</p>
+
+----
+
 ### 📊 GitHub Stats
 ![Abanoob's Stats](https://github-readme-stats.vercel.app/api?username=abanoobsamy&show_icons=true&theme=radical&count_private=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abanoobsamy&layout=compact&theme=radical)
