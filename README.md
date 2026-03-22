@@ -4,7 +4,7 @@
 **Mobile Software Engineer (Android & iOS) 📱**
 
 - 🔭 **Currently:** Engineering scalable, native mobile experiences across **Android (Kotlin)** and **iOS (Swift)**.
-- 🌱 **Focusing on:** Mastering reactive programming streams (**RxSwift** & **RxJava**) and maintaining strict **Clean Architecture**.
+- 🌱 **Focusing on:** Mastering reactive programming streams (**RxSwift** & **RxJava** & **Coroutine**) and maintaining strict **Clean Architecture**.
 - 💬 **Ask me about:** MVVM/MVI patterns, Jetpack Compose, UICollectionView, and integrating AI into mobile ecosystems.
 - 🚀 **See my portfolio:** [**abanoobsamy.site**](https://abanoobsamy.site) _(Check out my latest cross-platform projects!)_
 
