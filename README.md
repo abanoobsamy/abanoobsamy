@@ -56,5 +56,5 @@
 <p align="left">
 <a href="https://linkedin.com/in/abanoobsamy" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="abanoobsamy" /></a>
 <a href="https://abanoobsamy.site" target="blank"><img align="center" src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="website" /></a>
-<a href="mailto:contact@abanoobsamy.site" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="email" /></a>
+<a href="mailto:bobsamy55@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="email" /></a>
 </p>
