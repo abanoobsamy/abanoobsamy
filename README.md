@@ -1,47 +1,44 @@
 # Hi there, I'm Abanoob Samy! 👋
 
-### ✨ Crafting Pixel-Perfect Android Apps with a touch of AI
-**Android Developer | Jetpack Compose Wizard 🧙‍♂️**
+### ✨ Crafting High-Performance Native Applications
+**Mobile Software Engineer (Android & iOS) 📱**
 
-- 🔭 **Currently:** Building smooth, high-performance UI experiences using **Jetpack Compose**.
-- 🌱 **Learning:** Integrating **LLMs & Generative AI** into mobile ecosystems.
-- 🤝 **Collaboration:** I help open-source projects migrate to modern Android standards.
-- 💬 **Ask me about:** Modern Android Development (MAD), Animations, & AI integration.
-- 🚀 **See my work:** [**abanoobsamy.site**](https://abanoobsamy.site) _(It's worth a visit!)_
+- 🔭 **Currently:** Engineering scalable, native mobile experiences across **Android (Kotlin)** and **iOS (Swift)**.
+- 🌱 **Focusing on:** Mastering reactive programming streams (**RxSwift** & **RxJava**) and maintaining strict **Clean Architecture**.
+- 💬 **Ask me about:** MVVM/MVI patterns, Jetpack Compose, UICollectionView, and integrating AI into mobile ecosystems.
+- 🚀 **See my portfolio:** [**abanoobsamy.site**](https://abanoobsamy.site) _(Check out my latest cross-platform projects!)_
 
 ---
 
 ### 🛠️ Tech Stack
 <p align="left">
   <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" />
+  <img src="https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white" />
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
   
+  <br><br>
   <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" />
+  <img src="https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white" />
   <img src="https://img.shields.io/badge/Jetpack%20Compose-4285F4?style=for-the-badge&logo=android&logoColor=white" />
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
-  <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" />
+  
+  <br><br>
   <img src="https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white" />
+  <img src="https://img.shields.io/badge/Xcode-007ACC?style=for-the-badge&logo=Xcode&logoColor=white" />
+  <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" />
 </p>
-
----
-
-### 🏆 Achievements
-| 🚀 Projects | 🌱 Contributions | ⚡ Current Streak |
-| :---: | :---: | :---: |
-| **Building Portfolio** | **Active** | **On Fire!** |
 
 ---
 
 ### ⚡ Quick Stats
 | 🏆 Current Focus | 📦 Projects | ⏱️ Timezone |
 | :---: | :---: | :---: |
-| **Android & AI** | **Active Builder** | **Egypt (GMT+2)** |
+| **Native Mobile (iOS/Android)** | **Active Builder** | **Egypt (GMT+2)** |
 
 <p align="left">
-  <img src="https://img.shields.io/badge/Code-Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" />
+  <img src="https://img.shields.io/badge/Code-Kotlin%20%26%20Swift-7F52FF?style=for-the-badge&logo=codeigniter&logoColor=white" />
   <img src="https://img.shields.io/badge/Status-Open%20to%20Work-success?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Focus-Mobile%20Dev-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Focus-Mobile%20Engineering-blue?style=for-the-badge" />
 </p>
 
 ----
