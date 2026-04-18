@@ -5,7 +5,7 @@
 
 - 🔭 **Currently:** Engineering scalable, native mobile experiences across **Android (Kotlin)** and **iOS (Swift)**.
 - 🌱 **Focusing on:** Mastering reactive programming streams (**RxSwift** & **RxJava** & **Coroutine**) and maintaining strict **Clean Architecture**.
-- 💬 **Ask me about:** MVVM/MVI patterns, Jetpack Compose, UICollectionView, and integrating AI into mobile ecosystems.
+- 💬 **Ask me about:** MVVM/MVI patterns, Jetpack Compose, SwiftUi, UICollectionView, and integrating AI into mobile ecosystems.
 - 🚀 **See my portfolio:** [**abanoobsamy.site**](https://abanoobsamy.site) _(Check out my latest cross-platform projects!)_
 
 ---
