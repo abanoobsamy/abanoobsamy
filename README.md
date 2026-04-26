@@ -1,16 +1,16 @@
-# Hi there, I'm Abanoob Samy! 👋
+### Hi there, I'm Abanoob Samy! 👋
 
-### ✨ Crafting High-Performance Native Applications
-**Mobile Software Engineer (Android & iOS) 📱**
+**✨ Senior Mobile Engineer | Crafting Enterprise-Grade Native Applications**
 
-- 🔭 **Currently:** Engineering scalable, native mobile experiences across **Android (Kotlin)** and **iOS (Swift)**.
-- 🌱 **Focusing on:** Mastering reactive programming streams (**RxSwift** & **RxJava** & **Coroutine**) and maintaining strict **Clean Architecture**.
-- 💬 **Ask me about:** MVVM/MVI patterns, Jetpack Compose, SwiftUi, UICollectionView, and integrating AI into mobile ecosystems.
-- 🚀 **See my portfolio:** [**abanoobsamy.site**](https://abanoobsamy.site) _(Check out my latest cross-platform projects!)_
+Specializing in high-performance, scalable native mobile ecosystems across **Android (Kotlin)** and **iOS (Swift)**. My focus is on building robust architectures for Fintech, real-time data synchronization, and complex hardware integrations.
+
+- 🔭 **Currently Engineering:** Secure, offline-first mobile platforms utilizing strict **Clean Architecture** and **MVI/MVVM** patterns.
+- 🌱 **Deep Dive:** High-frequency data streaming, memory profiling (OOM reduction), and physical hardware integrations (**NFC & Biometrics**).
+- 💬 **Ask me about:** RxJava/RxSwift, Jetpack Compose, SwiftUI, Unidirectional Data Flow, and building enterprise ecosystems.
+- 🚀 **See my portfolio:** [abanoobsamy.site](https://abanoobsamy.site) *(Check out my latest cross-platform architectures!)*
 
 ---
-
-### 🛠️ Tech Stack
+### 🛠 Tech Stack & Tools
 <p align="left">
   <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" />
   <img src="https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white" />
