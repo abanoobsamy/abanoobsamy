@@ -1,6 +1,6 @@
 ### Hi there, I'm Abanoob Samy! 👋
 
-**✨ Senior Mobile Engineer | Crafting Enterprise-Grade Native Applications**
+**✨ Mobile Software Engineer | Crafting Enterprise-Grade Native Applications**
 
 Specializing in high-performance, scalable native mobile ecosystems across **Android (Kotlin)** and **iOS (Swift)**. My focus is on building robust architectures for Fintech, real-time data synchronization, and complex hardware integrations.
 
